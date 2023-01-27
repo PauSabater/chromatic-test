@@ -72,6 +72,7 @@
     "@web/test-runner-playwright": "^0.8.4",
     "@webcomponents/webcomponentsjs": "^2.6.0",
     "babel-loader": "^8.3.0",
+    "chromatic": "^6.15.0",
     "deepmerge": "^4.2.2",
     "eslint": "^7.32.0",
     "eslint-plugin-storybook": "^0.6.10",
